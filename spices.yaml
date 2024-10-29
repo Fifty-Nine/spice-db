@@ -1,0 +1,105 @@
+spices:
+  - name: Allspice
+    formats: powder
+
+  - name: Bay
+    formats: dried leaf
+
+  - name: Basil
+    formats: dried ground leaf
+
+  - name: Cayenne
+    alternate_names:
+      - Cayenne pepper
+
+    formats: powder
+
+  - name: Celery
+    formats: seed
+
+  - name: Chili
+    alternate_names:
+      - Chili pepper
+
+    formats: powder
+
+  - name: Chipotle
+    formats:
+      - flake
+      - powder
+
+  - name: Cinnamon
+    formats:
+      - powder
+      - stick
+
+  - name: Clove
+    formats:
+      - seed
+      - powder
+
+  - name: Crushed red pepper
+    is_blend: Yes
+    formats: flake
+
+  - name: Coriander
+    formats: seed
+
+  - name: Cumin
+    formats: powder
+
+  - name: Dill
+    formats: dried ground leaf
+
+  - name: Garlic
+    formats: powder
+
+  - name: Garam masala
+    is_blend: Yes
+    formats: powder
+
+  - name: Ginger
+    formats: powder
+
+  - name: Marjoram
+    formats: powder
+
+  - name: Mint
+    formats: dried crystal
+
+  - name: Nutmeg
+    formats: powder
+
+  - name: Onion
+    formats: powder
+
+  - name: Oregano
+    formats: dried ground leaf
+
+  - name: Parsley
+    formats: dried ground leaf
+
+  - name: Paprika
+    alternate_names:
+      - Bell pepper
+    formats:
+      - powder
+      - smoked powder
+
+  - name: Pumpkin spice
+    is_blend: Yes
+    formats: powder
+
+  - name: Sesame
+    formats:
+      - seed
+      - toasted seed
+
+  - name: Thyme
+    formats: dried ground leaf
+
+  - name: Rosemary
+    formats: dried ground leaf
+
+  - name: Saffron
+    formats: thread
